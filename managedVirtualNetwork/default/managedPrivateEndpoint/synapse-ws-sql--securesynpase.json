@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-sql--securesynpase",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/0a343397-276c-4707-80d8-954cbdc50e08/resourceGroups/Day4RG/providers/Microsoft.Synapse/workspaces/securesynpase",
+		"groupId": "sql",
+		"fqdns": [
+			"securesynpase.0aae7129-baa4-4577-845e-6343f8a30caf.sql.azuresynapse.net"
+		]
+	}
+}

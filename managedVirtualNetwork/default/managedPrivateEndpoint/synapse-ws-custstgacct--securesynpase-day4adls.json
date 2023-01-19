@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-custstgacct--securesynpase-day4adls",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/0a343397-276c-4707-80d8-954cbdc50e08/resourceGroups/Day4RG/providers/Microsoft.Storage/storageAccounts/day4adls",
+		"groupId": "dfs",
+		"fqdns": [
+			"day4adls.dfs.core.windows.net"
+		]
+	}
+}
